@@ -72,7 +72,7 @@ def fetch_github_repo_info(github, git_url):
             "url": repo.html_url,
             "stargazers_count": repo.stargazers_count,
             "forks_count": repo.forks_count,
-            "updated_at": repo.updated_at.strftime("%Y-%m-%d"),
+            "updated_at": repo.pushed_at.strftime("%Y-%m-%d"),
         }
     except Exception as e:
         print(f"Error fetching GitHub repo info for {git_url}: {e}")
