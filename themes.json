@@ -2,8 +2,8 @@
     {
         "name": "hugo-PaperMod",
         "url": "https://github.com/adityatelange/hugo-PaperMod",
-        "stargazers_count": 11036,
-        "forks_count": 2898,
+        "stargazers_count": 11046,
+        "forks_count": 2896,
         "tags": [
             "Blog",
             "Dark",
@@ -11,12 +11,12 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-03-01"
     },
     {
         "name": "hugo-blox-builder",
         "url": "https://github.com/HugoBlox/hugo-blox-builder",
-        "stargazers_count": 8497,
+        "stargazers_count": 8503,
         "forks_count": 2930,
         "tags": [
             "Blog",
@@ -28,12 +28,12 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-03-01"
     },
     {
         "name": "hugo-theme-stack",
         "url": "https://github.com/CaiJimmy/hugo-theme-stack",
-        "stargazers_count": 5415,
+        "stargazers_count": 5426,
         "forks_count": 1781,
         "tags": [
             "Blog",
@@ -42,36 +42,36 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-01-23"
     },
     {
         "name": "hugo-book",
         "url": "https://github.com/alex-shpak/hugo-book",
-        "stargazers_count": 3616,
-        "forks_count": 1212,
+        "stargazers_count": 3620,
+        "forks_count": 1213,
         "tags": [
             "Docs",
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-03"
     },
     {
         "name": "LoveIt",
         "url": "https://github.com/dillonzq/LoveIt",
-        "stargazers_count": 3481,
-        "forks_count": 1095,
+        "stargazers_count": 3488,
+        "forks_count": 1096,
         "tags": [
             "Blog",
             "Dark",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-03-03"
     },
     {
         "name": "hugo-coder",
         "url": "https://github.com/luizdepra/hugo-coder",
-        "stargazers_count": 2822,
+        "stargazers_count": 2823,
         "forks_count": 1083,
         "tags": [
             "Blog",
@@ -87,20 +87,20 @@
     {
         "name": "docsy",
         "url": "https://github.com/google/docsy",
-        "stargazers_count": 2693,
-        "forks_count": 921,
+        "stargazers_count": 2694,
+        "forks_count": 919,
         "tags": [
             "Docs",
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-02-10"
     },
     {
         "name": "hugo-theme-terminal",
         "url": "https://github.com/panr/hugo-theme-terminal",
-        "stargazers_count": 2228,
-        "forks_count": 799,
+        "stargazers_count": 2230,
+        "forks_count": 798,
         "tags": [
             "Blog",
             "Dark",
@@ -110,25 +110,25 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-01-13"
     },
     {
         "name": "hugo-paper",
         "url": "https://github.com/nanxiaobei/hugo-paper",
-        "stargazers_count": 2197,
+        "stargazers_count": 2198,
         "forks_count": 509,
         "tags": [
             "Blog",
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-02-24"
     },
     {
         "name": "doks",
         "url": "https://github.com/thuliteio/doks",
         "stargazers_count": 2180,
-        "forks_count": 368,
+        "forks_count": 369,
         "tags": [
             "Blog",
             "Bootstrap",
@@ -137,13 +137,13 @@
             "Landing",
             "Minimal"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2024-10-24"
     },
     {
         "name": "blowfish",
         "url": "https://github.com/nunocoracao/blowfish",
-        "stargazers_count": 1764,
-        "forks_count": 481,
+        "stargazers_count": 1766,
+        "forks_count": 483,
         "tags": [
             "Blog",
             "Dark",
@@ -153,7 +153,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-27"
     },
     {
         "name": "hugo-theme-hello-friend-ng",
@@ -169,13 +169,13 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-18"
+        "updated_at": "2025-01-28"
     },
     {
         "name": "congo",
         "url": "https://github.com/jpanther/congo",
-        "stargazers_count": 1348,
-        "forks_count": 354,
+        "stargazers_count": 1349,
+        "forks_count": 356,
         "tags": [
             "Blog",
             "Dark",
@@ -185,25 +185,25 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-24"
     },
     {
         "name": "gohugo-theme-ananke",
         "url": "https://github.com/theNewDynamic/gohugo-theme-ananke",
-        "stargazers_count": 1228,
-        "forks_count": 1193,
+        "stargazers_count": 1229,
+        "forks_count": 1195,
         "tags": [
             "Blog",
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-03-01"
     },
     {
         "name": "beautifulhugo",
         "url": "https://github.com/halogenica/beautifulhugo",
         "stargazers_count": 1170,
-        "forks_count": 612,
+        "forks_count": 611,
         "tags": [
             "Blog",
             "Bootstrap",
@@ -214,25 +214,25 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2024-11-17"
     },
     {
         "name": "archie",
         "url": "https://github.com/athul/archie",
-        "stargazers_count": 1118,
-        "forks_count": 323,
+        "stargazers_count": 1117,
+        "forks_count": 324,
         "tags": [
             "Blog",
             "Minimal",
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-03"
     },
     {
         "name": "toha",
         "url": "https://github.com/hugo-toha/toha",
-        "stargazers_count": 1094,
+        "stargazers_count": 1096,
         "forks_count": 640,
         "tags": [
             "Blog",
@@ -243,13 +243,13 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-03-01"
+        "updated_at": "2025-02-06"
     },
     {
         "name": "hugoplate",
         "url": "https://github.com/zeon-studio/hugoplate",
-        "stargazers_count": 1080,
-        "forks_count": 292,
+        "stargazers_count": 1083,
+        "forks_count": 294,
         "tags": [
             "Blog",
             "Contact",
@@ -262,13 +262,13 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-03-02"
     },
     {
         "name": "hextra",
         "url": "https://github.com/imfing/hextra",
-        "stargazers_count": 1029,
-        "forks_count": 227,
+        "stargazers_count": 1032,
+        "forks_count": 229,
         "tags": [
             "Blog",
             "Dark",
@@ -282,7 +282,7 @@
     {
         "name": "Mainroad",
         "url": "https://github.com/Vimux/Mainroad",
-        "stargazers_count": 956,
+        "stargazers_count": 957,
         "forks_count": 488,
         "tags": [
             "Blog",
@@ -290,13 +290,13 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-09-06"
     },
     {
         "name": "hugo-bearblog",
         "url": "https://github.com/janraasch/hugo-bearblog",
-        "stargazers_count": 952,
-        "forks_count": 257,
+        "stargazers_count": 953,
+        "forks_count": 258,
         "tags": [
             "Blog",
             "Dark Mode",
@@ -304,7 +304,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-03-01"
+        "updated_at": "2025-02-28"
     },
     {
         "name": "hugo-theme-jane",
@@ -316,39 +316,39 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-02-09"
     },
     {
         "name": "FixIt",
         "url": "https://github.com/hugo-fixit/FixIt",
-        "stargazers_count": 940,
-        "forks_count": 113,
+        "stargazers_count": 943,
+        "forks_count": 116,
         "tags": [
             "Blog",
             "Dark",
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-03-01"
     },
     {
         "name": "hugo-profile",
         "url": "https://github.com/gurusabarish/hugo-profile",
-        "stargazers_count": 835,
-        "forks_count": 472,
+        "stargazers_count": 838,
+        "forks_count": 474,
         "tags": [
             "Blog",
             "Personal",
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-02-16"
     },
     {
         "name": "hugo-universal-theme",
         "url": "https://github.com/devcows/hugo-universal-theme",
-        "stargazers_count": 832,
-        "forks_count": 576,
+        "stargazers_count": 833,
+        "forks_count": 577,
         "tags": [
             "Blog",
             "Company",
@@ -356,31 +356,31 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2024-10-14"
     },
     {
         "name": "DoIt",
         "url": "https://github.com/HEIGE-PCloud/DoIt",
         "stargazers_count": 831,
-        "forks_count": 203,
+        "forks_count": 202,
         "tags": [
             "Blog",
             "Dark",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-02-25"
     },
     {
         "name": "hugo-xmin",
         "url": "https://github.com/yihui/hugo-xmin",
-        "stargazers_count": 795,
+        "stargazers_count": 796,
         "forks_count": 365,
         "tags": [
             "Blog",
             "Minimal",
             "Personal"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-01-24"
     },
     {
         "name": "hugo-theme-mini",
@@ -392,12 +392,12 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-08-09"
     },
     {
         "name": "docuapi",
         "url": "https://github.com/bep/docuapi",
-        "stargazers_count": 759,
+        "stargazers_count": 760,
         "forks_count": 200,
         "tags": [
             "Api",
@@ -405,7 +405,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-14"
+        "updated_at": "2024-12-11"
     },
     {
         "name": "hugo-theme-cleanwhite",
@@ -418,7 +418,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-02-20"
     },
     {
         "name": "reveal-hugo",
@@ -426,12 +426,12 @@
         "stargazers_count": 707,
         "forks_count": 144,
         "tags": [],
-        "updated_at": "2025-02-26"
+        "updated_at": "2024-10-30"
     },
     {
         "name": "hugo-theme-introduction",
         "url": "https://github.com/victoriadrake/hugo-theme-introduction",
-        "stargazers_count": 682,
+        "stargazers_count": 684,
         "forks_count": 265,
         "tags": [
             "Blog",
@@ -444,7 +444,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-21"
+        "updated_at": "2025-01-30"
     },
     {
         "name": "anatole",
@@ -458,20 +458,20 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-01-03"
     },
     {
         "name": "hugo-fresh",
         "url": "https://github.com/StefMa/hugo-fresh",
         "stargazers_count": 654,
-        "forks_count": 390,
+        "forks_count": 389,
         "tags": [
             "Company",
             "Landing",
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2024-10-14"
     },
     {
         "name": "github-style",
@@ -481,18 +481,18 @@
         "tags": [
             "Blog"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-01-03"
     },
     {
         "name": "hugo-clarity",
         "url": "https://github.com/chipzoller/hugo-clarity",
-        "stargazers_count": 606,
+        "stargazers_count": 607,
         "forks_count": 271,
         "tags": [
             "Blog",
             "Dark"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-03-02"
     },
     {
         "name": "hugo-theme-diary",
@@ -502,7 +502,7 @@
         "tags": [
             "Blog"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-12-12"
     },
     {
         "name": "hyde",
@@ -513,7 +513,7 @@
             "Blog",
             "Company"
         ],
-        "updated_at": "2025-01-30"
+        "updated_at": "2024-12-11"
     },
     {
         "name": "hugo-theme-cactus",
@@ -524,7 +524,7 @@
             "Blog",
             "Responsive"
         ],
-        "updated_at": "2025-02-11"
+        "updated_at": "2024-06-01"
     },
     {
         "name": "hugo-blog-awesome",
@@ -539,7 +539,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-02-21"
     },
     {
         "name": "hugo-theme-bootstrap",
@@ -558,7 +558,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-24"
     },
     {
         "name": "hugo-geekdoc",
@@ -569,13 +569,13 @@
             "Docs",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-03-03"
     },
     {
         "name": "hugo-theme-console",
         "url": "https://github.com/mrmierzejewski/hugo-theme-console",
-        "stargazers_count": 510,
-        "forks_count": 151,
+        "stargazers_count": 511,
+        "forks_count": 152,
         "tags": [
             "Blog",
             "Gallery",
@@ -585,20 +585,20 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2024-12-05"
     },
     {
         "name": "hugo-theme-yinyang",
         "url": "https://github.com/joway/hugo-theme-yinyang",
-        "stargazers_count": 502,
-        "forks_count": 156,
+        "stargazers_count": 503,
+        "forks_count": 157,
         "tags": [
             "Blog",
             "Minimal",
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-24"
     },
     {
         "name": "hugo-theme-m10c",
@@ -611,7 +611,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-01-23"
     },
     {
         "name": "hugo-theme-relearn",
@@ -638,12 +638,12 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-25"
+        "updated_at": "2024-10-25"
     },
     {
         "name": "hugo-theme-gallery",
         "url": "https://github.com/nicokaiser/hugo-theme-gallery",
-        "stargazers_count": 445,
+        "stargazers_count": 446,
         "forks_count": 141,
         "tags": [
             "Dark",
@@ -651,13 +651,27 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-26"
+    },
+    {
+        "name": "hugo-theme-dream",
+        "url": "https://github.com/g1eny0ung/hugo-theme-dream",
+        "stargazers_count": 435,
+        "forks_count": 158,
+        "tags": [
+            "Blog",
+            "Dark",
+            "Light",
+            "Personal",
+            "Responsive"
+        ],
+        "updated_at": "2025-03-02"
     },
     {
         "name": "gokarna-hugo",
         "url": "https://github.com/gokarna-theme/gokarna-hugo",
         "stargazers_count": 433,
-        "forks_count": 156,
+        "forks_count": 155,
         "tags": [
             "Blog",
             "Dark",
@@ -667,27 +681,13 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
-    },
-    {
-        "name": "hugo-theme-dream",
-        "url": "https://github.com/g1eny0ung/hugo-theme-dream",
-        "stargazers_count": 432,
-        "forks_count": 158,
-        "tags": [
-            "Blog",
-            "Dark",
-            "Light",
-            "Personal",
-            "Responsive"
-        ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-08"
     },
     {
         "name": "lotusdocs",
         "url": "https://github.com/colinwilson/lotusdocs",
-        "stargazers_count": 424,
-        "forks_count": 94,
+        "stargazers_count": 425,
+        "forks_count": 96,
         "tags": [
             "Bootstrap",
             "Dark",
@@ -697,7 +697,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-02-04"
     },
     {
         "name": "lynx",
@@ -712,7 +712,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-22"
+        "updated_at": "2024-07-20"
     },
     {
         "name": "bilberry-hugo-theme",
@@ -726,13 +726,13 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-15"
+        "updated_at": "2025-02-24"
     },
     {
         "name": "typo",
         "url": "https://github.com/tomfran/typo",
-        "stargazers_count": 347,
-        "forks_count": 107,
+        "stargazers_count": 354,
+        "forks_count": 111,
         "tags": [
             "Blog",
             "Dark",
@@ -742,7 +742,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-03-02"
     },
     {
         "name": "tailbliss",
@@ -760,7 +760,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-01-27"
     },
     {
         "name": "hugo-notepadium",
@@ -770,7 +770,7 @@
         "tags": [
             "Blog"
         ],
-        "updated_at": "2025-02-19"
+        "updated_at": "2025-01-22"
     },
     {
         "name": "compose",
@@ -783,7 +783,7 @@
             "Dark Mode",
             "Docs"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-01-23"
     },
     {
         "name": "newsroom",
@@ -795,30 +795,30 @@
             "Dark",
             "Minimal"
         ],
-        "updated_at": "2025-02-25"
+        "updated_at": "2025-01-23"
     },
     {
         "name": "KeepIt",
         "url": "https://github.com/Fastbyte01/KeepIt",
-        "stargazers_count": 300,
+        "stargazers_count": 301,
         "forks_count": 113,
         "tags": [
             "Blog",
             "Dark",
             "Responsive"
         ],
-        "updated_at": "2025-02-22"
+        "updated_at": "2024-12-02"
     },
     {
         "name": "hugo-theme-nostyleplease",
         "url": "https://github.com/hanwenguo/hugo-theme-nostyleplease",
         "stargazers_count": 296,
-        "forks_count": 106,
+        "forks_count": 108,
         "tags": [
             "Blog",
             "Minimal"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-01-20"
     },
     {
         "name": "hugo-theme-zen",
@@ -850,12 +850,12 @@
         "name": "hugo-resume",
         "url": "https://github.com/eddiewebb/hugo-resume",
         "stargazers_count": 285,
-        "forks_count": 246,
+        "forks_count": 245,
         "tags": [
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-01-06"
     },
     {
         "name": "smol",
@@ -869,7 +869,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-22"
+        "updated_at": "2024-08-11"
     },
     {
         "name": "hugo-winston-theme",
@@ -880,18 +880,18 @@
             "Blog",
             "Minimal"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-02-29"
     },
     {
         "name": "digital-garden-hugo-theme",
         "url": "https://github.com/apvarun/digital-garden-hugo-theme",
         "stargazers_count": 267,
-        "forks_count": 79,
+        "forks_count": 78,
         "tags": [
             "Blog",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-12-16"
     },
     {
         "name": "hugo-whisper-theme",
@@ -904,7 +904,18 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-06"
+        "updated_at": "2024-03-14"
+    },
+    {
+        "name": "hugo-goa",
+        "url": "https://github.com/shenoydotme/hugo-goa",
+        "stargazers_count": 266,
+        "forks_count": 134,
+        "tags": [
+            "Bootstrap",
+            "Minimal"
+        ],
+        "updated_at": "2024-10-05"
     },
     {
         "name": "poison",
@@ -918,24 +929,13 @@
             "Minimal",
             "Personal"
         ],
-        "updated_at": "2025-02-24"
-    },
-    {
-        "name": "hugo-goa",
-        "url": "https://github.com/shenoydotme/hugo-goa",
-        "stargazers_count": 265,
-        "forks_count": 134,
-        "tags": [
-            "Bootstrap",
-            "Minimal"
-        ],
-        "updated_at": "2025-01-04"
+        "updated_at": "2024-09-05"
     },
     {
         "name": "paige",
         "url": "https://github.com/willfaught/paige",
         "stargazers_count": 264,
-        "forks_count": 60,
+        "forks_count": 59,
         "tags": [
             "Archive",
             "Blog",
@@ -956,7 +956,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-03-02"
     },
     {
         "name": "blank",
@@ -966,13 +966,13 @@
         "tags": [
             "Blog"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2023-11-25"
     },
     {
         "name": "hugo-theme-next",
         "url": "https://github.com/hugo-next/hugo-theme-next",
         "stargazers_count": 235,
-        "forks_count": 46,
+        "forks_count": 45,
         "tags": [
             "Blog",
             "Dark",
@@ -981,7 +981,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-18"
+        "updated_at": "2025-03-01"
     },
     {
         "name": "hugo-story",
@@ -994,7 +994,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-24"
+        "updated_at": "2024-07-23"
     },
     {
         "name": "hugo_theme_pickles",
@@ -1007,7 +1007,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-01-12"
+        "updated_at": "2025-02-25"
     },
     {
         "name": "hugo-theme-techdoc",
@@ -1018,13 +1018,13 @@
             "Docs",
             "Responsive"
         ],
-        "updated_at": "2025-02-21"
+        "updated_at": "2025-01-30"
     },
     {
         "name": "hugo-theme-gruvbox",
         "url": "https://github.com/schnerring/hugo-theme-gruvbox",
-        "stargazers_count": 216,
-        "forks_count": 53,
+        "stargazers_count": 217,
+        "forks_count": 54,
         "tags": [
             "Blog",
             "Dark Mode",
@@ -1032,7 +1032,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-25"
+        "updated_at": "2025-03-03"
     },
     {
         "name": "roxo-hugo",
@@ -1047,7 +1047,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-24"
+        "updated_at": "2024-01-02"
     },
     {
         "name": "almeida-cv",
@@ -1057,7 +1057,7 @@
         "tags": [
             "Minimal"
         ],
-        "updated_at": "2025-02-23"
+        "updated_at": "2024-12-26"
     },
     {
         "name": "hugo-theme-monochrome",
@@ -1071,7 +1071,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-11-27"
     },
     {
         "name": "hugo-black-and-light-theme",
@@ -1084,7 +1084,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-08"
+        "updated_at": "2024-05-10"
     },
     {
         "name": "hugo-theme-pixyll",
@@ -1097,7 +1097,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-01-13"
+        "updated_at": "2024-04-30"
     },
     {
         "name": "hugo-bearcub",
@@ -1112,7 +1112,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-01-19"
     },
     {
         "name": "hinode",
@@ -1125,7 +1125,7 @@
             "Docs",
             "Minimal"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-03-02"
     },
     {
         "name": "Lowkey-Hugo-Theme",
@@ -1139,7 +1139,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-25"
+        "updated_at": "2024-11-28"
     },
     {
         "name": "FeelIt",
@@ -1152,7 +1152,7 @@
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-09"
     },
     {
         "name": "gallerydeluxe",
@@ -1163,7 +1163,7 @@
             "Gallery",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2024-10-10"
     },
     {
         "name": "Hugo-Octopress",
@@ -1172,6 +1172,18 @@
         "forks_count": 54,
         "tags": [],
         "updated_at": "2025-02-20"
+    },
+    {
+        "name": "hugo-classic",
+        "url": "https://github.com/goodroot/hugo-classic",
+        "stargazers_count": 149,
+        "forks_count": 72,
+        "tags": [
+            "Blog",
+            "Minimal",
+            "Personal"
+        ],
+        "updated_at": "2025-02-06"
     },
     {
         "name": "hugo-theme-moments",
@@ -1183,19 +1195,7 @@
             "Gallery",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
-    },
-    {
-        "name": "hugo-classic",
-        "url": "https://github.com/goodroot/hugo-classic",
-        "stargazers_count": 148,
-        "forks_count": 72,
-        "tags": [
-            "Blog",
-            "Minimal",
-            "Personal"
-        ],
-        "updated_at": "2025-02-15"
+        "updated_at": "2024-12-04"
     },
     {
         "name": "hugo-bootstrap-theme",
@@ -1209,7 +1209,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-21"
+        "updated_at": "2024-12-03"
     },
     {
         "name": "hugo-theme-terminalcv",
@@ -1219,7 +1219,7 @@
         "tags": [
             "Personal"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2024-10-24"
     },
     {
         "name": "hugo-vitae",
@@ -1232,7 +1232,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-15"
+        "updated_at": "2024-10-11"
     },
     {
         "name": "hugo-theme-tailwind",
@@ -1246,7 +1246,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-03-03"
     },
     {
         "name": "hugo-theme-nix",
@@ -1258,7 +1258,7 @@
             "Minimal",
             "Multilingual"
         ],
-        "updated_at": "2025-02-03"
+        "updated_at": "2024-12-08"
     },
     {
         "name": "whiteplain",
@@ -1269,13 +1269,13 @@
             "Blog",
             "Light"
         ],
-        "updated_at": "2024-12-29"
+        "updated_at": "2024-08-31"
     },
     {
         "name": "adritian-free-hugo-theme",
         "url": "https://github.com/zetxek/adritian-free-hugo-theme",
-        "stargazers_count": 131,
-        "forks_count": 103,
+        "stargazers_count": 133,
+        "forks_count": 102,
         "tags": [
             "Blog",
             "Bootstrap",
@@ -1287,7 +1287,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-03-02"
     },
     {
         "name": "bridget",
@@ -1300,7 +1300,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-15"
+        "updated_at": "2025-02-24"
     },
     {
         "name": "tella",
@@ -1313,7 +1313,7 @@
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-17"
+        "updated_at": "2025-01-30"
     },
     {
         "name": "hermit-V2",
@@ -1328,7 +1328,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-03-01"
     },
     {
         "name": "castanet",
@@ -1339,7 +1339,7 @@
             "Podcast",
             "Responsive"
         ],
-        "updated_at": "2025-02-18"
+        "updated_at": "2024-09-03"
     },
     {
         "name": "Binario",
@@ -1351,7 +1351,7 @@
             "Dark",
             "Responsive"
         ],
-        "updated_at": "2025-02-04"
+        "updated_at": "2024-09-06"
     },
     {
         "name": "hugo-refresh",
@@ -1365,7 +1365,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-08"
+        "updated_at": "2024-07-29"
     },
     {
         "name": "HugoTeX",
@@ -1378,7 +1378,7 @@
             "Light",
             "Minimal"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-10-22"
     },
     {
         "name": "Blonde",
@@ -1393,7 +1393,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-03"
+        "updated_at": "2025-01-30"
     },
     {
         "name": "devise",
@@ -1405,7 +1405,7 @@
             "Minimal",
             "Personal"
         ],
-        "updated_at": "2025-02-21"
+        "updated_at": "2024-11-08"
     },
     {
         "name": "hugo-theme-tokiwa",
@@ -1417,7 +1417,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-15"
+        "updated_at": "2024-12-08"
     },
     {
         "name": "hugo-theme-virgo",
@@ -1427,7 +1427,7 @@
         "tags": [
             "Blog"
         ],
-        "updated_at": "2025-02-17"
+        "updated_at": "2025-01-17"
     },
     {
         "name": "hugo-changelog-theme",
@@ -1435,7 +1435,7 @@
         "stargazers_count": 109,
         "forks_count": 30,
         "tags": [],
-        "updated_at": "2025-02-04"
+        "updated_at": "2025-01-21"
     },
     {
         "name": "hugo-xmag",
@@ -1448,7 +1448,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-02-24"
     },
     {
         "name": "osprey-delight",
@@ -1463,7 +1463,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-25"
+        "updated_at": "2025-02-07"
     },
     {
         "name": "hugo-flex",
@@ -1477,7 +1477,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-24"
+        "updated_at": "2024-11-21"
     },
     {
         "name": "lightbi-hugo",
@@ -1497,20 +1497,20 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-19"
+        "updated_at": "2024-11-23"
     },
     {
         "name": "hugo-theme-nightfall",
         "url": "https://github.com/lordmathis/hugo-theme-nightfall",
         "stargazers_count": 103,
-        "forks_count": 51,
+        "forks_count": 52,
         "tags": [
             "Blog",
             "Dark",
             "Minimal",
             "Multilingual"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-02-08"
     },
     {
         "name": "hugo-geekblog",
@@ -1521,12 +1521,12 @@
             "Blog",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-03-03"
     },
     {
         "name": "autophugo",
         "url": "https://github.com/kc0bfv/autophugo",
-        "stargazers_count": 98,
+        "stargazers_count": 99,
         "forks_count": 60,
         "tags": [
             "Blog",
@@ -1534,7 +1534,7 @@
             "Gallery",
             "Responsive"
         ],
-        "updated_at": "2025-01-16"
+        "updated_at": "2025-03-03"
     },
     {
         "name": "hugo-digital-garden-theme",
@@ -1546,20 +1546,12 @@
             "Light",
             "Personal"
         ],
-        "updated_at": "2025-02-20"
-    },
-    {
-        "name": "devfest-theme-hugo",
-        "url": "https://github.com/GDGToulouse/devfest-theme-hugo",
-        "stargazers_count": 90,
-        "forks_count": 68,
-        "tags": [],
-        "updated_at": "2025-01-06"
+        "updated_at": "2024-02-11"
     },
     {
         "name": "hugo-theme-til",
         "url": "https://github.com/michenriksen/hugo-theme-til",
-        "stargazers_count": 90,
+        "stargazers_count": 91,
         "forks_count": 25,
         "tags": [
             "Blog",
@@ -1567,7 +1559,15 @@
             "Minimal",
             "Personal"
         ],
-        "updated_at": "2025-02-20"
+        "updated_at": "2024-12-03"
+    },
+    {
+        "name": "devfest-theme-hugo",
+        "url": "https://github.com/GDGToulouse/devfest-theme-hugo",
+        "stargazers_count": 90,
+        "forks_count": 68,
+        "tags": [],
+        "updated_at": "2024-07-02"
     },
     {
         "name": "hugo-cards",
@@ -1579,7 +1579,27 @@
             "Bootstrap",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2024-09-20"
+    },
+    {
+        "name": "theme",
+        "url": "https://github.com/hbstack/theme",
+        "stargazers_count": 83,
+        "forks_count": 21,
+        "tags": [
+            "Archive",
+            "Blog",
+            "Bootstrap",
+            "Dark",
+            "Dark Mode",
+            "Docs",
+            "Gallery",
+            "Landing",
+            "Multilingual",
+            "Personal",
+            "Responsive"
+        ],
+        "updated_at": "2025-02-16"
     },
     {
         "name": "hugo-theme-re-terminal",
@@ -1601,14 +1621,14 @@
         "name": "hugo-texify3",
         "url": "https://github.com/michaelneuper/hugo-texify3",
         "stargazers_count": 79,
-        "forks_count": 28,
+        "forks_count": 29,
         "tags": [
             "Blog",
             "Light",
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-01-07"
     },
     {
         "name": "spectral",
@@ -1620,7 +1640,7 @@
             "Company",
             "Portfolio"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-06-22"
     },
     {
         "name": "hugo-dead-simple",
@@ -1648,20 +1668,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2024-12-29"
-    },
-    {
-        "name": "E25DX",
-        "url": "https://github.com/dumindu/E25DX",
-        "stargazers_count": 76,
-        "forks_count": 2,
-        "tags": [
-            "Dark Mode",
-            "Docs",
-            "Light Mode",
-            "Responsive"
-        ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-11-13"
     },
     {
         "name": "hugo-kiera",
@@ -1673,7 +1680,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2024-12-26"
+        "updated_at": "2024-09-29"
     },
     {
         "name": "qubt",
@@ -1688,7 +1695,20 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-03-03"
+    },
+    {
+        "name": "E25DX",
+        "url": "https://github.com/dumindu/E25DX",
+        "stargazers_count": 75,
+        "forks_count": 2,
+        "tags": [
+            "Dark Mode",
+            "Docs",
+            "Light Mode",
+            "Responsive"
+        ],
+        "updated_at": "2025-03-01"
     },
     {
         "name": "hugo-theme-anubis2",
@@ -1704,32 +1724,32 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2024-12-19"
     },
     {
         "name": "docura",
         "url": "https://github.com/docura/docura",
         "stargazers_count": 74,
-        "forks_count": 17,
+        "forks_count": 18,
         "tags": [
             "Dark Mode",
             "Docs",
             "Light Mode",
             "Responsive"
         ],
-        "updated_at": "2025-03-01"
+        "updated_at": "2025-02-19"
     },
     {
         "name": "hugo-theme-itheme",
         "url": "https://github.com/floyd-li/hugo-theme-itheme",
         "stargazers_count": 74,
-        "forks_count": 21,
+        "forks_count": 23,
         "tags": [
             "Blog",
             "Dark",
             "Light"
         ],
-        "updated_at": "2025-02-18"
+        "updated_at": "2024-01-08"
     },
     {
         "name": "hugo-theme-iris",
@@ -1744,7 +1764,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-11"
+        "updated_at": "2025-03-01"
     },
     {
         "name": "soho",
@@ -1757,7 +1777,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-08"
+        "updated_at": "2024-02-15"
     },
     {
         "name": "alpha-church",
@@ -1768,7 +1788,7 @@
             "Church",
             "Podcast"
         ],
-        "updated_at": "2025-02-07"
+        "updated_at": "2024-09-26"
     },
     {
         "name": "gohugo-theme-ed",
@@ -1782,7 +1802,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-12"
+        "updated_at": "2025-02-25"
     },
     {
         "name": "paperesque",
@@ -1796,13 +1816,13 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-01-03"
     },
     {
         "name": "vncnt-hugo",
         "url": "https://github.com/fncnt/vncnt-hugo",
         "stargazers_count": 69,
-        "forks_count": 35,
+        "forks_count": 36,
         "tags": [
             "Dark Mode",
             "Landing",
@@ -1810,7 +1830,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-11"
+        "updated_at": "2024-04-22"
     },
     {
         "name": "bootstrap-bp-hugo-startpage",
@@ -1824,7 +1844,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-19"
+        "updated_at": "2024-12-04"
     },
     {
         "name": "hugo-product-launch",
@@ -1839,7 +1859,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-25"
+        "updated_at": "2025-02-26"
     },
     {
         "name": "hugo-theme-w3css-basic",
@@ -1856,7 +1876,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-01-14"
+        "updated_at": "2024-10-05"
     },
     {
         "name": "henry-hugo",
@@ -1868,19 +1888,19 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-16"
+        "updated_at": "2025-03-02"
     },
     {
         "name": "pehtheme-hugo",
         "url": "https://github.com/fauzanmy/pehtheme-hugo",
         "stargazers_count": 64,
-        "forks_count": 23,
+        "forks_count": 24,
         "tags": [
             "Blog",
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-21"
+        "updated_at": "2024-07-18"
     },
     {
         "name": "hugo-simple",
@@ -1892,7 +1912,7 @@
             "Dark Mode",
             "Minimal"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-02-18"
     },
     {
         "name": "hugo-dusk",
@@ -1905,7 +1925,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-23"
+        "updated_at": "2024-12-15"
     },
     {
         "name": "compost",
@@ -1921,7 +1941,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-16"
+        "updated_at": "2024-09-19"
     },
     {
         "name": "slick",
@@ -1935,7 +1955,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-18"
+        "updated_at": "2025-01-25"
     },
     {
         "name": "aafu",
@@ -1962,7 +1982,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-22"
+        "updated_at": "2024-12-04"
     },
     {
         "name": "hugo-theme-fluency",
@@ -1987,7 +2007,7 @@
             "Gallery",
             "Minimal"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-10-14"
     },
     {
         "name": "maverick",
@@ -1997,7 +2017,7 @@
         "tags": [
             "Blog"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-02-21"
     },
     {
         "name": "seven",
@@ -2012,7 +2032,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-24"
+        "updated_at": "2025-02-15"
     },
     {
         "name": "shadocs",
@@ -2023,7 +2043,7 @@
             "Docs",
             "Landing"
         ],
-        "updated_at": "2025-01-26"
+        "updated_at": "2025-03-03"
     },
     {
         "name": "dot-org-hugo-theme",
@@ -2038,7 +2058,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-19"
+        "updated_at": "2025-02-18"
     },
     {
         "name": "NewBee",
@@ -2049,7 +2069,7 @@
             "Blog",
             "Responsive"
         ],
-        "updated_at": "2024-10-03"
+        "updated_at": "2023-11-26"
     },
     {
         "name": "hugo-theme-notrack",
@@ -2061,31 +2081,31 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-24"
-    },
-    {
-        "name": "galleriesdeluxe",
-        "url": "https://github.com/bep/galleriesdeluxe",
-        "stargazers_count": 46,
-        "forks_count": 14,
-        "tags": [
-            "Gallery",
-            "Responsive"
-        ],
-        "updated_at": "2025-02-07"
+        "updated_at": "2025-01-27"
     },
     {
         "name": "hugo-theme-reimu",
         "url": "https://github.com/D-Sketon/hugo-theme-reimu",
-        "stargazers_count": 45,
-        "forks_count": 11,
+        "stargazers_count": 48,
+        "forks_count": 12,
         "tags": [
             "Blog",
             "Dark",
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-03-02"
+    },
+    {
+        "name": "galleriesdeluxe",
+        "url": "https://github.com/bep/galleriesdeluxe",
+        "stargazers_count": 46,
+        "forks_count": 15,
+        "tags": [
+            "Gallery",
+            "Responsive"
+        ],
+        "updated_at": "2024-10-10"
     },
     {
         "name": "ink-free",
@@ -2100,13 +2120,13 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-18"
+        "updated_at": "2024-12-27"
     },
     {
         "name": "Niello",
         "url": "https://github.com/guangmean/Niello",
         "stargazers_count": 44,
-        "forks_count": 20,
+        "forks_count": 21,
         "tags": [
             "Blog",
             "Dark",
@@ -2115,7 +2135,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-24"
     },
     {
         "name": "hugo-xterm",
@@ -2132,7 +2152,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-20"
+        "updated_at": "2024-07-10"
     },
     {
         "name": "hugo-theme-quint",
@@ -2147,7 +2167,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-11"
+        "updated_at": "2024-09-12"
     },
     {
         "name": "internet-weblog",
@@ -2173,7 +2193,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-21"
+        "updated_at": "2024-11-20"
     },
     {
         "name": "hugo-travelify-theme",
@@ -2183,7 +2203,7 @@
         "tags": [
             "Responsive"
         ],
-        "updated_at": "2024-09-27"
+        "updated_at": "2024-09-10"
     },
     {
         "name": "dark-theme-editor",
@@ -2196,12 +2216,12 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-21"
+        "updated_at": "2025-01-17"
     },
     {
         "name": "hugo-theme-yue",
         "url": "https://github.com/CyrusYip/hugo-theme-yue",
-        "stargazers_count": 36,
+        "stargazers_count": 37,
         "forks_count": 8,
         "tags": [
             "Blog",
@@ -2226,7 +2246,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-01-10"
+        "updated_at": "2024-03-24"
     },
     {
         "name": "hugo-theme-hello-4s3ti",
@@ -2242,7 +2262,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2024-06-08"
     },
     {
         "name": "hugo-dpsg",
@@ -2253,7 +2273,7 @@
             "Blog",
             "Responsive"
         ],
-        "updated_at": "2025-02-12"
+        "updated_at": "2024-12-30"
     },
     {
         "name": "simple-style",
@@ -2264,7 +2284,7 @@
             "Blog",
             "Light"
         ],
-        "updated_at": "2025-01-02"
+        "updated_at": "2024-03-22"
     },
     {
         "name": "hugo-theme-hulga",
@@ -2278,7 +2298,7 @@
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-01"
+        "updated_at": "2024-12-04"
     },
     {
         "name": "calligraphy",
@@ -2294,7 +2314,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-24"
+        "updated_at": "2024-09-26"
     },
     {
         "name": "simple-resume",
@@ -2304,13 +2324,13 @@
         "tags": [
             "Minimal"
         ],
-        "updated_at": "2025-02-07"
+        "updated_at": "2025-01-22"
     },
     {
         "name": "hugo-brewm",
         "url": "https://github.com/foxihd/hugo-brewm",
         "stargazers_count": 30,
-        "forks_count": 9,
+        "forks_count": 10,
         "tags": [
             "Archive",
             "Blog",
@@ -2322,7 +2342,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-27"
+        "updated_at": "2025-03-02"
     },
     {
         "name": "hugo-theme-flat",
@@ -2336,7 +2356,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-04"
+        "updated_at": "2025-01-01"
     },
     {
         "name": "perplex",
@@ -2347,7 +2367,7 @@
             "Blog",
             "Docs"
         ],
-        "updated_at": "2024-11-14"
+        "updated_at": "2024-08-13"
     },
     {
         "name": "hugo-JuiceBar",
@@ -2358,7 +2378,7 @@
             "Blog",
             "Responsive"
         ],
-        "updated_at": "2025-01-22"
+        "updated_at": "2024-12-28"
     },
     {
         "name": "agnes-hugo-theme",
@@ -2371,7 +2391,7 @@
             "Light",
             "Minimal"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2024-06-21"
     },
     {
         "name": "photophobia",
@@ -2383,7 +2403,7 @@
             "Dark",
             "Multilingual"
         ],
-        "updated_at": "2025-02-07"
+        "updated_at": "2024-09-02"
     },
     {
         "name": "L1nkr",
@@ -2397,7 +2417,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2025-03-03"
     },
     {
         "name": "magnolia-free-hugo-theme",
@@ -2428,7 +2448,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-07"
+        "updated_at": "2024-06-11"
     },
     {
         "name": "theme-start",
@@ -2439,7 +2459,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-22"
+        "updated_at": "2025-03-03"
     },
     {
         "name": "arberia",
@@ -2450,7 +2470,7 @@
             "Blog",
             "Responsive"
         ],
-        "updated_at": "2025-02-19"
+        "updated_at": "2024-11-19"
     },
     {
         "name": "hugo-saasify-theme",
@@ -2461,13 +2481,13 @@
             "Company",
             "Responsive"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2024-12-31"
     },
     {
         "name": "sada",
         "url": "https://github.com/darshanbaral/sada",
         "stargazers_count": 25,
-        "forks_count": 21,
+        "forks_count": 22,
         "tags": [
             "Landing",
             "Portfolio"
@@ -2484,7 +2504,7 @@
             "Personal",
             "Portfolio"
         ],
-        "updated_at": "2025-02-06"
+        "updated_at": "2025-01-22"
     },
     {
         "name": "capsule",
@@ -2510,7 +2530,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2024-11-18"
+        "updated_at": "2024-09-18"
     },
     {
         "name": "hugo-now",
@@ -2522,7 +2542,7 @@
             "Bootstrap",
             "Responsive"
         ],
-        "updated_at": "2024-07-08"
+        "updated_at": "2023-09-10"
     },
     {
         "name": "hugo-PolyRhythmic",
@@ -2542,7 +2562,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-01-23"
+        "updated_at": "2024-12-02"
     },
     {
         "name": "colordrop",
@@ -2552,7 +2572,7 @@
         "tags": [
             "Blog"
         ],
-        "updated_at": "2024-10-06"
+        "updated_at": "2024-05-13"
     },
     {
         "name": "hugo-starter",
@@ -2567,6 +2587,16 @@
         "updated_at": "2024-12-19"
     },
     {
+        "name": "kitab",
+        "url": "https://github.com/darshanbaral/kitab",
+        "stargazers_count": 22,
+        "forks_count": 11,
+        "tags": [
+            "Book"
+        ],
+        "updated_at": "2024-10-05"
+    },
+    {
         "name": "minimal_marketing",
         "url": "https://github.com/letItCurl/minimal_marketing",
         "stargazers_count": 22,
@@ -2576,7 +2606,7 @@
             "Company",
             "Landing"
         ],
-        "updated_at": "2025-02-23"
+        "updated_at": "2023-12-21"
     },
     {
         "name": "cyberscape",
@@ -2589,17 +2619,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
-    },
-    {
-        "name": "kitab",
-        "url": "https://github.com/darshanbaral/kitab",
-        "stargazers_count": 21,
-        "forks_count": 10,
-        "tags": [
-            "Book"
-        ],
-        "updated_at": "2025-01-25"
+        "updated_at": "2023-12-15"
     },
     {
         "name": "vnovel",
@@ -2626,7 +2646,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2024-12-15"
+        "updated_at": "2024-10-18"
     },
     {
         "name": "kayal",
@@ -2668,7 +2688,7 @@
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-26"
+        "updated_at": "2024-04-28"
     },
     {
         "name": "hugo-theme-doors",
@@ -2681,7 +2701,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2024-08-10"
+        "updated_at": "2023-11-24"
     },
     {
         "name": "BlogRa",
@@ -2693,7 +2713,7 @@
             "Bootstrap",
             "Responsive"
         ],
-        "updated_at": "2024-12-23"
+        "updated_at": "2024-10-12"
     },
     {
         "name": "coming-soon",
@@ -2705,7 +2725,7 @@
             "Minimal",
             "Personal"
         ],
-        "updated_at": "2025-02-17"
+        "updated_at": "2024-12-27"
     },
     {
         "name": "hugo-theme-hamburg",
@@ -2744,18 +2764,6 @@
         "updated_at": "2025-01-28"
     },
     {
-        "name": "theme",
-        "url": "https://github.com/hugo-porto/theme",
-        "stargazers_count": 17,
-        "forks_count": 7,
-        "tags": [
-            "Minimal",
-            "Portfolio",
-            "Responsive"
-        ],
-        "updated_at": "2025-02-14"
-    },
-    {
         "name": "hugo-spectre-pixel-theme",
         "url": "https://github.com/st-wong/hugo-spectre-pixel-theme",
         "stargazers_count": 16,
@@ -2776,7 +2784,7 @@
             "Bootstrap",
             "Responsive"
         ],
-        "updated_at": "2024-10-25"
+        "updated_at": "2024-06-16"
     },
     {
         "name": "huey",
@@ -2788,7 +2796,7 @@
             "Light",
             "Minimal"
         ],
-        "updated_at": "2025-02-20"
+        "updated_at": "2024-11-30"
     },
     {
         "name": "saral",
@@ -2802,7 +2810,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-19"
+        "updated_at": "2024-06-19"
     },
     {
         "name": "hugo-cuisine-book",
@@ -2810,7 +2818,7 @@
         "stargazers_count": 12,
         "forks_count": 5,
         "tags": [],
-        "updated_at": "2025-02-28"
+        "updated_at": "2024-12-24"
     },
     {
         "name": "hugo-theme-prav",
@@ -2835,7 +2843,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-01-14"
+        "updated_at": "2024-08-15"
     },
     {
         "name": "freshpink",
@@ -2843,7 +2851,7 @@
         "stargazers_count": 11,
         "forks_count": 1,
         "tags": [],
-        "updated_at": "2025-02-27"
+        "updated_at": "2024-10-06"
     },
     {
         "name": "hackropole-hugo",
@@ -2865,7 +2873,7 @@
             "Blog",
             "Minimal"
         ],
-        "updated_at": "2025-02-12"
+        "updated_at": "2023-11-05"
     },
     {
         "name": "triple-hyde",
@@ -2877,7 +2885,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-02-02"
+        "updated_at": "2025-01-30"
     },
     {
         "name": "Ardeidae",
@@ -2887,7 +2895,7 @@
         "tags": [
             "Blog"
         ],
-        "updated_at": "2025-02-22"
+        "updated_at": "2024-03-26"
     },
     {
         "name": "flex-bp-hugo-cv",
@@ -2914,7 +2922,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-15"
+        "updated_at": "2025-01-05"
     },
     {
         "name": "neopost",
@@ -2958,7 +2966,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2025-02-23"
+        "updated_at": "2025-01-27"
     },
     {
         "name": "simple-snipcart-shop",
@@ -2984,6 +2992,19 @@
         "updated_at": "2025-02-03"
     },
     {
+        "name": "dario",
+        "url": "https://github.com/GrantBirki/dario",
+        "stargazers_count": 6,
+        "forks_count": 1,
+        "tags": [
+            "Blog",
+            "Dark",
+            "Light",
+            "Minimal"
+        ],
+        "updated_at": "2025-02-10"
+    },
+    {
         "name": "hugo-theme-color-your-world",
         "url": "https://github.com/rmaguiar/hugo-theme-color-your-world",
         "stargazers_count": 6,
@@ -3001,6 +3022,19 @@
         "updated_at": "2024-12-10"
     },
     {
+        "name": "not-much",
+        "url": "https://github.com/imgios/not-much",
+        "stargazers_count": 6,
+        "forks_count": 0,
+        "tags": [
+            "Blog",
+            "Dark",
+            "Minimal",
+            "Responsive"
+        ],
+        "updated_at": "2025-03-02"
+    },
+    {
         "name": "theme-long-teng",
         "url": "https://github.com/mdfriday/theme-long-teng",
         "stargazers_count": 6,
@@ -3011,20 +3045,7 @@
             "Light",
             "Responsive"
         ],
-        "updated_at": "2025-02-17"
-    },
-    {
-        "name": "dario",
-        "url": "https://github.com/GrantBirki/dario",
-        "stargazers_count": 5,
-        "forks_count": 0,
-        "tags": [
-            "Blog",
-            "Dark",
-            "Light",
-            "Minimal"
-        ],
-        "updated_at": "2025-02-25"
+        "updated_at": "2024-11-27"
     },
     {
         "name": "hugo-news",
@@ -3035,7 +3056,7 @@
             "Blog",
             "Responsive"
         ],
-        "updated_at": "2025-02-08"
+        "updated_at": "2025-01-19"
     },
     {
         "name": "hugo-theme-spaced-blog",
@@ -3050,20 +3071,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2025-02-01"
-    },
-    {
-        "name": "not-much",
-        "url": "https://github.com/imgios/not-much",
-        "stargazers_count": 5,
-        "forks_count": 0,
-        "tags": [
-            "Blog",
-            "Dark",
-            "Minimal",
-            "Responsive"
-        ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2024-10-15"
     },
     {
         "name": "yuan",
@@ -3075,20 +3083,20 @@
             "Landing",
             "Minimal"
         ],
-        "updated_at": "2025-02-14"
+        "updated_at": "2024-07-21"
     },
     {
         "name": "hugo-theme-fluidity",
         "url": "https://github.com/wayjam/hugo-theme-fluidity",
         "stargazers_count": 4,
-        "forks_count": 2,
+        "forks_count": 3,
         "tags": [
             "Archive",
             "Blog",
             "Dark",
             "Light"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-02-26"
     },
     {
         "name": "hugo-theme-huguette",
@@ -3100,7 +3108,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2024-12-01"
+        "updated_at": "2023-09-26"
     },
     {
         "name": "hugo_theme_windy",
@@ -3111,7 +3119,7 @@
             "Blog",
             "Dark"
         ],
-        "updated_at": "2024-12-27"
+        "updated_at": "2024-09-28"
     },
     {
         "name": "jughead",
@@ -3125,7 +3133,7 @@
             "Portfolio",
             "Responsive"
         ],
-        "updated_at": "2025-02-18"
+        "updated_at": "2025-02-05"
     },
     {
         "name": "plague",
@@ -3136,7 +3144,7 @@
             "Blog",
             "Minimal"
         ],
-        "updated_at": "2024-12-08"
+        "updated_at": "2024-11-15"
     },
     {
         "name": "resume-a4",
@@ -3144,7 +3152,19 @@
         "stargazers_count": 4,
         "forks_count": 1,
         "tags": [],
-        "updated_at": "2025-02-06"
+        "updated_at": "2025-01-15"
+    },
+    {
+        "name": "stargazer-layout",
+        "url": "https://github.com/Blackstareye/stargazer-layout",
+        "stargazers_count": 4,
+        "forks_count": 0,
+        "tags": [
+            "Blog",
+            "Dark",
+            "Responsive"
+        ],
+        "updated_at": "2025-02-24"
     },
     {
         "name": "bloggraph",
@@ -3171,7 +3191,7 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2024-11-26"
+        "updated_at": "2025-03-01"
     },
     {
         "name": "build-your-website",
@@ -3183,7 +3203,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2024-11-11"
+        "updated_at": "2024-10-31"
     },
     {
         "name": "HikaeMe",
@@ -3208,7 +3228,7 @@
             "Minimal",
             "Responsive"
         ],
-        "updated_at": "2024-12-26"
+        "updated_at": "2024-03-09"
     },
     {
         "name": "quietfoodie",
@@ -3218,7 +3238,7 @@
         "tags": [
             "Blog"
         ],
-        "updated_at": "2024-10-16"
+        "updated_at": "2024-05-22"
     },
     {
         "name": "simple-dark",
@@ -3235,18 +3255,6 @@
         "updated_at": "2025-01-03"
     },
     {
-        "name": "stargazer-layout",
-        "url": "https://github.com/Blackstareye/stargazer-layout",
-        "stargazers_count": 2,
-        "forks_count": 0,
-        "tags": [
-            "Blog",
-            "Dark",
-            "Responsive"
-        ],
-        "updated_at": "2025-02-28"
-    },
-    {
         "name": "theme-search",
         "url": "https://github.com/hbstack/theme-search",
         "stargazers_count": 2,
@@ -3260,7 +3268,7 @@
             "Multilingual",
             "Responsive"
         ],
-        "updated_at": "2024-11-14"
+        "updated_at": "2025-02-28"
     },
     {
         "name": "am-writing-hugo-theme",
@@ -3268,7 +3276,7 @@
         "stargazers_count": 1,
         "forks_count": 0,
         "tags": [],
-        "updated_at": "2024-03-16"
+        "updated_at": "2024-09-11"
     },
     {
         "name": "black",
@@ -3278,7 +3286,7 @@
         "tags": [
             "Dark"
         ],
-        "updated_at": "2024-12-04"
+        "updated_at": "2024-06-27"
     },
     {
         "name": "hugo-menu",
@@ -3288,7 +3296,7 @@
         "tags": [
             "Company"
         ],
-        "updated_at": "2025-02-28"
+        "updated_at": "2025-01-10"
     },
     {
         "name": "hugo-theme-island",
@@ -3303,7 +3311,7 @@
             "Minimal",
             "Personal"
         ],
-        "updated_at": "2025-02-19"
+        "updated_at": "2025-02-08"
     },
     {
         "name": "hugo-theme-vng-blue",
@@ -3331,6 +3339,6 @@
             "Personal",
             "Responsive"
         ],
-        "updated_at": "2025-01-24"
+        "updated_at": "2023-12-11"
     }
 ]
