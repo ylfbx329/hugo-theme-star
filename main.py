@@ -39,6 +39,7 @@ def fetch_themes():
     response = requests.get(URL)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
+    # body > div.flex.w-full.xl\:w-6xl.h-full.flex-auto.mx-auto > main > ul > li:nth-child(1) > div > a
     themes = soup.select("body > div.flex.w-full.xl\:w-6xl.h-full.flex-auto.mx-auto > main > ul > li > div > a")
     return [urljoin(URL, theme["href"]) for theme in themes if "href" in theme.attrs]
 
@@ -50,13 +51,13 @@ def fetch_theme_details(theme_url):
 
     # Extract GitHub URL
     git_url_elem = soup.select_one(
-        "body > div.relative.isolate.overflow-hidden.h-screen > div.mx-auto.max-w-7xl.px-6.pt-10.lg\:flex.lg\:px-8 > div.mx-auto.max-w-2xl.lg\:mx-0.lg\:shrink-0.lg\:pt-8 > div.mt-12.flex.items-center.gap-x-3 > a.rounded-md.bg-blue-600.px-3\.5.py-2\.5.text-sm.font-semibold.text-white.shadow-xs.hover\:bg-blue-500.focus-visible\:outline-2.focus-visible\:outline-offset-2.focus-visible\:outline-blue-600"
+        "body > div.relative.isolate.overflow-hidden.min-h-screen > div.mx-auto.max-w-7xl.px-6.pt-10.lg\:flex.lg\:px-8 > div.mx-auto.max-w-2xl.lg\:mx-0.lg\:shrink-0.lg\:pt-8 > div.mt-12.flex.items-center.gap-x-3 > a.rounded-md.bg-blue-600.px-3\.5.py-2\.5.text-sm.font-semibold.text-white.shadow-xs.hover\:bg-blue-500.focus-visible\:outline-2.focus-visible\:outline-offset-2.focus-visible\:outline-blue-600"
     )
     git_url = git_url_elem["href"] if git_url_elem else None
 
     # Extract tags
     tags_elems = soup.select(
-        "body > div.relative.isolate.overflow-hidden.h-screen > div.mx-auto.max-w-7xl.px-6.pt-10.lg\:flex.lg\:px-8 > div.mx-auto.max-w-2xl.lg\:mx-0.lg\:shrink-0.lg\:pt-8 > div:nth-child(3) > div > dl > div:nth-child(5) > dd > a"
+        "body > div.relative.isolate.overflow-hidden.min-h-screen > div.mx-auto.max-w-7xl.px-6.pt-10.lg\:flex.lg\:px-8 > div.mx-auto.max-w-2xl.lg\:mx-0.lg\:shrink-0.lg\:pt-8 > div:nth-child(3) > div > dl > div:nth-child(5) > dd > a"
     )
     tags = [tag_elem.get_text(strip=True) for tag_elem in tags_elems]
 
